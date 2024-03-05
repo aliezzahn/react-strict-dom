@@ -28,14 +28,6 @@ exports[`properties: custom property css.defineVars: tokens 1`] = `
 
 exports[`properties: custom property handles undefined variables 1`] = `{}`;
 
-exports[`properties: custom property var with hover styles 1`] = `
-{
-  "style": {
-    "color": "#333",
-  },
-}
-`;
-
 exports[`properties: general "marginEnd" 1`] = `{}`;
 
 exports[`properties: general "marginHorizontal" 1`] = `{}`;
